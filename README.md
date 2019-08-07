@@ -9,7 +9,7 @@ This consists of all the projects I have worked on that helped me to improve my 
 
 ## Below are few data science related algorithms 
 <h4><a href="https://github.com/charithesh/data-science-portfolio/blob/master/Boostsraping.ipynb"> Bootstraping </a></h4>
-<h4><a href="https://github.com/charithesh/data-science-portfolio/blob/master/CV%20for%20KNN%20regressor.ipynb"> KNN regressor </a></h4>
+<a href="https://github.com/charithesh/data-science-portfolio/blob/master/CV%20for%20KNN%20regressor.ipynb"> KNN regressor </a>
 <h4><a href="https://github.com/charithesh/data-science-portfolio/blob/master/CV%20for%20KNN%20regressor.ipynb"> KNN regressor </a></h4>
 <h4><a href="https://github.com/charithesh/data-science-portfolio/blob/master/CV%20for%20KNN%20regressor.ipynb"> KNN regressor </a></h4>
 <h4><a href="https://github.com/charithesh/data-science-portfolio/blob/master/CV%20for%20KNN%20regressor.ipynb"> KNN regressor </a></h4>
