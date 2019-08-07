@@ -11,7 +11,7 @@ This consists of all the projects I have worked on that helped me to improve my 
   <li>Few of the analysis performed are when, where and how frequent do they occur </li>
  </ul>
 
-## Below are few data science related algorithms 
+### Below are few data science related algorithms 
 <a href="https://github.com/charithesh/data-science-portfolio/blob/master/Boostsraping.ipynb"> Bootstraping </a>
 </br><a href="https://github.com/charithesh/data-science-portfolio/blob/master/KNN%20regressor.ipynb"> KNN regressor </a>
 </br><a href="https://github.com/charithesh/data-science-portfolio/blob/master/CV%20for%20KNN%20regressor.ipynb"> Cross-Validation for KNN regressor </a>
