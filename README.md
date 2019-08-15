@@ -4,6 +4,14 @@ I am passionate about data science and interested in new opportunities, please c
 
 This consists of all the projects I have worked on that helped me to improve my Data Science skills. The projects contain all/some of the Data Science related skills like cleaning data, analysing and visulization of insights, and applying machine learning algorithms to predict the future trends. The projects are completed using R or Python with Jupyter notebooks. A brief description os provide for each project and to for more details please click on the links of the respective projects.
 
+
+<h3><a href="https://github.com/charithesh/Caravan-Insurance-Customers/blob/master/Caravan%20Insurance%20Customers.ipynb"> Choosing and Explaining Likely Caravan Insurance Customers</a></h3>
+<ul>
+  <li>EDA is perfromed on the given data usin ggplot2 and other statistics in R</li>
+  <li>Unlikely and likely related features are obtaied</li>
+  <li>Predictive modelling is done to predict the caravan insurance customer prediction</li>
+ </ul>
+
 <h3><a href="https://github.com/charithesh/Boston-crimes-EDA/blob/master/Boston%20crimes.ipynb"> EDA on Boston crimes </a></h3> 
 <ul>
   <li> Downloaded the data from <a href = "https://www.kaggle.com/AnalyzeBoston/crimes-in-boston">Kaggle</a> and cleaned the data </li>
