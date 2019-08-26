@@ -13,7 +13,7 @@ This consists of all the projects I have worked on that helped me to improve my 
  </ul>
  
 
- <h3><a href=" https://www.kaggle.com/charitheshreddy/titanic-survival-prediction/data?scriptVersionId=19563159"> Predicitng the survival of the passanger in the titanic disasster</a></h3>
+ <h3><a href="https://www.kaggle.com/charitheshreddy/titanic-survival-prediction/data?scriptVersionId=19563159"> Predicitng the survival of the passanger in the titanic disasster</a></h3>
 <ul>
   <li>EDA is perfromed on the given data usin seaborn and matplotlib</li>
   <li>Tranformed the categorial features into reasonable numeric features</li>
