@@ -11,6 +11,15 @@ This consists of all the projects I have worked on that helped me to improve my 
   <li>Unlikely and likely related features are obtaied</li>
   <li>Predictive modelling is done to predict the caravan insurance customer prediction</li>
  </ul>
+ 
+
+ <h3><a href=" https://www.kaggle.com/charitheshreddy/titanic-survival-prediction/data?scriptVersionId=19563159"> Predicitng the survival of the passanger in the titanic disasster</a></h3>
+<ul>
+  <li>EDA is perfromed on the given data usin seaborn and matplotlib</li>
+  <li>Tranformed the categorial features into reasonable numeric features</li>
+  <li>Compared multiple classifiers to fit the model</li>
+  <li>Final predictions were made using the Random forest classifier</li>
+ </ul>
 
 <h3><a href="https://github.com/charithesh/Boston-crimes-EDA/blob/master/Boston%20crimes.ipynb"> EDA on Boston crimes </a></h3> 
 <ul>
