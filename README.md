@@ -5,7 +5,7 @@ I am passionate about data science and interested in new opportunities, please c
 This consists of all the projects I have worked on that helped me to improve my Data Science skills. The projects contain all/some of the Data Science related skills like cleaning data, analysing and visulization of insights, and applying machine learning algorithms to predict the future trends. The projects are completed using R or Python with Jupyter notebooks. A brief description os provide for each project and to for more details please click on the links of the respective projects.
 
 
- <h3><a href="https://www.kaggle.com/charitheshreddy/titanic-survival-prediction/data?scriptVersionId=19563159"> Predicitng the survival of the passanger in the titanic disasster</a></h3>
+ <h3><a href="https://www.kaggle.com/charitheshreddy/titanic-survival-prediction?scriptVersionId=19703490"> Predicitng the survival of the passanger in the titanic disasster using stacking</a></h3>
 <ul>
   <li>Data cleaning and analysis using pandas, seaborn and matplotlib</li>
   <li>Tranformed the categorial features into reasonable numeric features</li>
