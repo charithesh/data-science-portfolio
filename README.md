@@ -1,4 +1,4 @@
-# Data Science Portfolio - Charithesh Reddy
+# Data Science Portfolio - Charithesh Reddygari
 
 I am passionate about data science and interested in new opportunities, please contact me on my <a href="https://linkedin.com/in/charithesh-reddy/">Linkedin</a> for business purpose.
 
